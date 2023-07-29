@@ -10,6 +10,9 @@
 
   <remote  name="los-miatoll"
            fetch="https://github.com/los-miatoll" />
+        
+  <remote  name="crdroid-gitlab"  
+           fetch="https://gitlab.com/crdroidandroid" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
