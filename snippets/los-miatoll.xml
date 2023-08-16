@@ -25,7 +25,7 @@
 <project path="kernel/xiaomi/sm6250" name="namaste_xiaomi_miatoll" remote="los-miatoll" revision="master" />
 <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="los-miatoll" revision="lineage-20.0" />
 
-<!-- Track r487747 Clang -->
-<project path="prebuilts/clang/host/linux-x86/clang-r487747" name="android_prebuilts_clang_host_linux-x86_clang-r487747c" remote="crdroid-gitlab" revision="13.0" />
+<!-- Track r498229 Clang -->
+<project path="prebuilts/clang/host/linux-x86/clang-r498229" name="prebuilts_clang_host_linux-x86_clang-r498229" remote="Joker-V2" revision="master" />
 
 </manifest>
